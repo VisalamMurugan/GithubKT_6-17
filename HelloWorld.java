@@ -5,7 +5,7 @@ public class HelloWorld
 {
 	public static void main(String[] args) {
 		System.out.println("Hello World!");
-		System.out.println("Welocme to Github learning");
-		System.out.println("ThQ);
+		System.out.println("thank you");
+		system.out.println("Its a sample pgm')
 	}
 }
