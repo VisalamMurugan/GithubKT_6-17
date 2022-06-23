@@ -2,8 +2,10 @@
  */
 
 public class HelloWorld
-{int a;
-	
+{String a;
+ a="Hello World";
+ 
+	System.out.println("Title :" + a);
 		System.out.println("Hi!");
 		System.out.println("thq");
 		System.out.println("Hello World!");
