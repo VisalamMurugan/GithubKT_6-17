@@ -2,7 +2,7 @@
  */
 
 public class HelloWorld
-{int abc;
+{int a;
 	
 		System.out.println("Hi!");
 		System.out.println("thq");
